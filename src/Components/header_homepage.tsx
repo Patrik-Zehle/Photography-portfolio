@@ -10,6 +10,9 @@ const Header_homepage = () => {
           <h1 className='title2' >
               Portfolio
           </h1>
+          <div>
+
+          </div>
       </div>
   )
 }
