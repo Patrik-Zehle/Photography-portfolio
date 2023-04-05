@@ -13,7 +13,14 @@ const Header_homepage = () => {
             Portfolio
         </h1>
       </div>
-      
+      <div className='homepage-text'>
+        <h2>
+            DO SOMETHING TODAY THAT YOUR FUTURE SELF WILL THANK YOU FOR.
+        </h2>
+      </div>
+      <div className='homepage-pic'>
+        <img src="/pictures/homepage_pic.jpeg" className='homepage_pic'/>
+      </div>
 
     </div> 
   )
