@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+
+}
+
+:root{
+    --blue-color: #00678d;
+}
+
+.menu-bar{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 3.5rem;
+    background-color: var(--blue-color);
+    border-radius: 1rem;
+}
+
+.home-icon{
+    position: absolute;
+    width: 17%; 
+    left: 1.5rem;
+    
+}

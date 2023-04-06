@@ -21,9 +21,8 @@
     background-image: url(/public/pictures/bg_1.jpeg);
     background: var(--blue-color);
     height: 12rem;
-    width: 100rem;
     box-shadow: 0px 8px 28px rgba(34,111,183,0.75);
-    font-size: 1.3rem;
+    font-size: 20px;
     font-family: Arial;
     color: white;
     
@@ -34,6 +33,7 @@
     padding-top: 4rem;
     top: 0;
     position: absolute;
+    font-size: 2.5rem;
 }
 
 .title2{
@@ -41,6 +41,7 @@
     padding-top: 1rem;
     position: absolute;
     top:6rem;
+    font-size: 2.5rem;
 }
 
 .pic-bg1{

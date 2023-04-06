@@ -22,7 +22,6 @@ const Header_homepage = () => {
       <div className='homepage-pic'>
         <img src="/pictures/homepage_pic.jpeg" className='homepage_pic'/>
       </div>
-
     </div> 
   )
 }
