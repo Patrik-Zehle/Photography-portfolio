@@ -8,6 +8,11 @@
 
 }
 
+@font-face {
+    font-family: "cormorant";
+    src: url("/public/fonts/static/Cormorant-Light.ttf");
+}
+
 :root{
     --blue-color: #00678d;
 }
@@ -52,6 +57,8 @@
     padding-left: 1rem;
     padding-right: 4rem;
     margin-top: 1rem;
+    font-family: 'cormorant';
+
 }
 
 .homepage_pic{
@@ -60,5 +67,13 @@
     margin-right: auto;
     width: 75%;
     margin-top: 1rem;
+    
+}
+
+.moon-icon{
+    width: 10%;
+    position: absolute;
+    top: 0.5rem;
+    left: 0.5rem;
 }
 

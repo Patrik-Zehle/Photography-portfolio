@@ -6,6 +6,7 @@ const Header_homepage = () => {
     <div>
       <img src="/pictures/bg_1.jpeg" className='pic-bg1'/>
       <div className='title' >
+        <img src="/icons/moon.png" className='moon-icon'/>
         <h1 className='title1'>
             Photography
         </h1>
